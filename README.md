@@ -1,3 +1,2 @@
-# MOBNIX
+# MOBNIX mobile games
 
-## Mobile games for mobile.
