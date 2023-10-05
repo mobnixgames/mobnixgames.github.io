@@ -152,9 +152,7 @@ yeahmobi.com, 5135195, RESELLER
 
 
 #ironSource
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
-
+ironsrc.com, 496819, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
